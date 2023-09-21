@@ -3,7 +3,7 @@ programa{
     real Total = 0.00
     inteiro Opcao
     faca{
-      escreva("\n\nLanchonete Rique\n")
+      escreva("\n\nLanchonete Rique versao 2\n")
       escreva("  1 -> X-Salada R$ 20.00 \n")
       escreva("  2 -> X-Bacon R$ 25.00 \n")
       escreva("  3 -> X-Egg R$ 15.00\n")
